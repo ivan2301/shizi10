@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FACExV5", "FACE_Ex_Reporn.vcxproj", "{3BABBEB2-7A50-4A54-99BB-DD88278FF347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DeBUG|x64 = DeBUG|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BABBEB2-7A50-4A54-99BB-DD88278FF347}.DeBUG|x64.ActiveCfg = DeBUG|x64
+		{3BABBEB2-7A50-4A54-99BB-DD88278FF347}.DeBUG|x64.Build.0 = DeBUG|x64
+		{3BABBEB2-7A50-4A54-99BB-DD88278FF347}.Release|x64.ActiveCfg = Release|x64
+		{3BABBEB2-7A50-4A54-99BB-DD88278FF347}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {139D3581-B318-4075-B71C-3686B8BFD99A}
+	EndGlobalSection
+EndGlobal

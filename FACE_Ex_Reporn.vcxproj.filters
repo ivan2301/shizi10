@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Tools">
+      <UniqueIdentifier>{8681d677-7416-4fbd-9ac2-1368c66e84d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Funcs">
+      <UniqueIdentifier>{e683c334-4920-43f4-9187-0570b32b0ecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\SDK">
+      <UniqueIdentifier>{9795ab99-75a8-4fe8-a84a-73751a1838bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Funcs\Internal">
+      <UniqueIdentifier>{7b0fb173-cfe1-4833-970f-903fb918cc20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Funcs\Aim">
+      <UniqueIdentifier>{0741bc37-8469-4c83-a350-df147a225246}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\SDK\Game">
+      <UniqueIdentifier>{b77e5d28-7bdc-4006-9a37-3419adca1049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\ShellCode">
+      <UniqueIdentifier>{f8fb808d-0a1f-421b-809a-d39e525d039a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FACEx.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Helpers\ShellCode.cpp">
+      <Filter>Исходные файлы\ShellCode</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Global.h">
+      <Filter>Исходные файлы</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\OffsetsMgr.h">
+      <Filter>Исходные файлы\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcs\Visuals.h">
+      <Filter>Исходные файлы\Funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcs\AutoAccept.h">
+      <Filter>Исходные файлы\Funcs</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers\CreateMove.h">
+      <Filter>Исходные файлы\Funcs\Internal</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\HookMgr.h">
+      <Filter>Исходные файлы\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\Utils.h">
+      <Filter>Исходные файлы\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\EncStr.h">
+      <Filter>Исходные файлы\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\FACE_Call.h">
+      <Filter>Исходные файлы\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcs\Aim.h">
+      <Filter>Исходные файлы\Funcs\Aim</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcs\AimHelper.h">
+      <Filter>Исходные файлы\Funcs\Aim</Filter>
+    </ClInclude>
+    <ClInclude Include="Helpers\SkinChangerHk.h">
+      <Filter>Исходные файлы\Funcs\Internal</Filter>
+    </ClInclude>
+    <ClInclude Include="Tools\ConVar.h">
+      <Filter>Исходные файлы\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\FButton.h">
+      <Filter>Исходные файлы\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\UserCmd.h">
+      <Filter>Исходные файлы\SDK\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Engine.h">
+      <Filter>Исходные файлы\SDK\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Math.h">
+      <Filter>Исходные файлы\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Funcs\BackTack.h">
+      <Filter>Исходные файлы\Funcs\Aim</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

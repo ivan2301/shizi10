@@ -5,4 +5,4 @@
 - 📫 How to reach me - in paste
 - 👨‍💻 Working for UC reputation
 
-![shizi10](https://avatars.githubusercontent.com/u/25524810)
+![shizi10](https://i.ibb.co/bP1s8cC/BXzgf-Vq3a-L0.jpg)

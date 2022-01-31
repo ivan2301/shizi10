@@ -6,4 +6,3 @@
 - 👨‍💻 Working for UC reputation
 - 🎖️  Going to the army soon
 
-![shizi10](https://i.ibb.co/bP1s8cC/BXzgf-Vq3a-L0.jpg)
